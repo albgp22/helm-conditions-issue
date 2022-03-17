@@ -1,0 +1,5 @@
+profiles:
+  chartvals:
+    enabled: true
+chartdep:
+  enabled: false

@@ -1,0 +1,9 @@
+dependencies:
+- name: chart-dep
+  repository: file://../chart-dep/
+  version: 0.1.0
+- name: chart-vals
+  repository: file://../chart-vals/
+  version: 0.1.0
+digest: sha256:6715c16e30f3c714f03931be00ab9b19d32b418335fc3bebd5976e9b53c07522
+generated: "2022-03-17T09:07:07.411380178+01:00"

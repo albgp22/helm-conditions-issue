@@ -1,0 +1,4 @@
+exports:
+  custom-vals:
+    chartdep:
+      enabled: trues  
